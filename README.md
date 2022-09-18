@@ -1,4 +1,4 @@
-# Spark-Web-Page# SPARK
+# SPARK
 
 **Spark** is a community- focused on the upbringing of the learning community, organized
 specially for the needs of the students. It is focused on lessening the weight on the
